@@ -8,7 +8,7 @@ This project was made without microcontrollers and any code that giving academic
 
 - Whole Analog Issue:Logic was implemented using with transistors and operational amplifiers,without using code.
 
-- Sensetivity Settings:The smoke detection be able to set with potentiometer.
+- Sensitivity Settings:The smoke detection be able to set with potentiometer.
 
 - Visual and Auditory Warning: In the situation of an alarm, the LED and buzzer are activated.
 
