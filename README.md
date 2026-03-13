@@ -18,9 +18,8 @@ Using technologies and tools
 - Design and Simulation: Proteus 8 (ISIS & ARES)
 
 - Hardware: MQ-2 Smoke Sensor,BC547 Transistor,LM358N Op amp, Passive components.
-- 📸 Project Gallery
+- 
 ### Circuit Schematic
-![Schematic](Screenshotsofcircuit)
-
+![Schematic](Circuitschematic)
 ### Physical Prototype
 ![Prototype](SolderingandPrototype)
