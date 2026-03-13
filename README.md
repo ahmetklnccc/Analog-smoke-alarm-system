@@ -13,7 +13,7 @@ This project was made without microcontrollers and any code that giving academic
 - Visual and Auditory Warning: In the situation of an alarm, the LED and buzzer are activated.
 
 
-Using technologies and tools
+Technologies Used and Tools
 
 - Design and Simulation: Proteus 8 (ISIS & ARES)
 
