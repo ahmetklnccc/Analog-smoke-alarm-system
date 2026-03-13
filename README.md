@@ -20,6 +20,6 @@ Using technologies and tools
 - Hardware: MQ-2 Smoke Sensor,BC547 Transistor,LM358N Op amp, Passive components.
 
 ### Circuit Schematic
-![Schematic](CircuitSchematic)
+![Schematic](CircuitSchematic.png)
 ### Physical Prototype
 ![Prototype](SolderingandPrototype)
