@@ -24,4 +24,4 @@ Technologies Used and Tools
 ### Physical Prototype
 ![Prototype](SolderingandPrototype)
 ### PCB Schematic
-![PCB](PCB)
+![PCB](PCB.png)
